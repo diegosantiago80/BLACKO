@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Televisor LED 55 pulgadas",
+      "category": "Electro",
+      "description": "Televisor LED Samsung 55 pulgadas con resolución 4K UHD",
+      "pictureUrl": "/img/tv.jpg",
+      "price": 1200000
+    },
+    {
+      "id": 2,
+      "title": "Sofá de tres plazas",
+      "category": "Hogar",
+      "description": "Sofá tapizado en chenille marron con estructura de madera, ideal para salas de estar",
+      "pictureUrl": "/img/sofa.jpg",
+      "price": 850000
+    },
+    {
+      "id": 3,
+      "title": "Camisa de hombre manga larga",
+      "category": "Indumentaria",
+      "description": "Camisa de hombre, manga larga, color celeste, 100% algodón",
+      "pictureUrl": "/img/camisa.jpg",
+      "price": 60000
+    },
+    {
+      "id": 4,
+      "title": "Heladera con freezer",
+      "category": "Electro",
+      "description": "Heladera No Frost WHIRPOOL con freezer superior, 320 litros",
+      "pictureUrl": "/img/heladera.jpg",
+      "price": 1450000
+    },
+    {
+      "id": 5,
+      "title": "Zapatillas deportivas",
+      "category": "Indumentaria",
+      "description": "Zapatillas deportivas Air Max, color negro, talle 42",
+      "pictureUrl": "/img/zapatillas.jpg",
+      "price": 250000
+    },
+    {
+      "id": 6,
+      "title": "Microondas digital",
+      "category": "Electro",
+      "description": "Microondas digital BGH, 30 litros, con grill y descongelado automático",
+      "pictureUrl": "/img/microondas.jpg",
+      "price": 320000
+    }
+  ]
+  

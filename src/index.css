@@ -3,3 +3,12 @@ span{
   padding-left: 0.4rem;
 }
 
+.card-img-custom {
+  width: 100%;
+  height: 200px; /* Ajusta según lo que necesites */
+  object-fit: cover;
+}
+
+.card-custom {
+  width: 18rem;
+}
